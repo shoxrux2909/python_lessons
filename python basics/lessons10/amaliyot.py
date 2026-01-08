@@ -415,3 +415,5 @@
 
 # tub_sonlar = list(filter(tubmi, range(100)))
 # print(tub_sonlar)
+
+print("hello")
