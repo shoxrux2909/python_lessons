@@ -402,4 +402,16 @@
 # print(type(x))
 
 # print(bool(1))
-print(any([False,True,True]))
+
+# def tubmi(x):
+#     if x<2:
+#         return False
+#     if x==2 or x ==3 :
+#         return True
+#     for i in range(2,x):
+#         if x%i == 0 :
+#             return False
+#     return True
+
+# tub_sonlar = list(filter(tubmi, range(100)))
+# print(tub_sonlar)
