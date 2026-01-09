@@ -416,4 +416,4 @@
 # tub_sonlar = list(filter(tubmi, range(100)))
 # print(tub_sonlar)
 
-print("hello me and you")
+print("hello2")
