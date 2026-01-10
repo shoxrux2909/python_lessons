@@ -1,1 +1,1 @@
-def add(x, y)
+print("lesson o'zgarish")
